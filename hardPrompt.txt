@@ -1,0 +1,14 @@
+User input: fireballs, wizard
+Output: The majestic wizard, filled with rage, climbed up his 20-meter tall tower radiating with anger, and when he reached the top, he created a fireball the size of a football field and threw it across the country.
+
+User input: above, calculator
+Output: The internation math olympiad student quickly picked up his calculator that was placed above the table as he was about to solve one of the most difficult problems they ever encountered. 
+
+User input: badminton, birdie
+Output: The talented badminton player gripped his racket tightly, as they prepared themselves to smash the birdie into the edge of the opponent's side court which will win them the point.
+
+User input: stove, cat
+Output: With the chef's newly purchased stove that was producing extreme amounts of heat, the chef was able to cook the recently slaughtered cat to utter perfection, with the taste of the meat being unbelievable savoury and juicy.
+
+User input: Kevin, beside
+Output: The famous entrepreneur Kevin, was sitting on top of his chair within his 10 floor complex, beside the massive piles of money within his room that he keeps to remind himself of his success.

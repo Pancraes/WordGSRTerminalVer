@@ -1,0 +1,13 @@
+User input: fireballs, wizard
+Output: The wizard sat on top of his 20 meter-tall tower and then created a massive fireball with his hands and threw it off the tower.
+
+User input: above, calculator
+Output: The math student placed his calculator inside of a box which was placed above the table and then threw it in water.
+
+User input: badminton, birdie
+Output: The blue badminton racket was used to and hit the birdie onto the opposing side's court on the back line.
+
+User input: stove cat\nOutput: Although the heat from the stove was borderline unbearable, the chef still cooked the cat to perfection.
+
+User input: Kevin, beside
+Output: The famous well-known chad named Kevin was walking along the sidewalk with his many girlfriends beside his 10-meter limo.

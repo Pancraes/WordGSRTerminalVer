@@ -1,0 +1,14 @@
+User input: fireballs, wizard
+Output: The wizard ate a popcicle and then continued to throw a fireball off his tower.
+
+User input: above, calculator
+Output: The calculator was placed inside a box which was placed above the table.
+
+User input: badminton, birdie
+Output: The badminton racket was blue and hit the birdie onto the line.
+
+User input: stove cat
+Output: Through the heat of the stove, the chef cooked that cat.
+
+User input: Kevin, beside
+Output: Kevin was sitting with his girlfriends on the bench beside the library.
